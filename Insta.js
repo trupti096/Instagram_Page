@@ -1,7 +1,5 @@
 const container = document.querySelector('.container');
-const LOrSBtn = document.querySelector('.loginOrSignup')
-const container2 = document.querySelector('.container2')
-const container3 = document.querySelector('.container3')
+const LOrSBtn = document.querySelector('.loginOrSignup');
 let loginBoolean = false
 const displayFunction = () => {
     loginBoolean ? LOrSBtn.innerHTML = `SignUp` : LOrSBtn.innerHTML = `Login`
