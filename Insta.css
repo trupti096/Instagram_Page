@@ -1,0 +1,176 @@
+.container{
+    width: 400px;
+    height: 570px;
+    border: 1px solid #000;
+    margin:auto;
+}
+
+#login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#box1{
+    margin-top: 45px;
+    height: 35px;
+    width: 300px;
+}
+#box2{
+    margin-top: 5px;
+    height: 35px;
+    width: 300px;
+}
+#checkbox{
+    margin-left: -154px;
+    margin-top: 10px;
+}
+#box3{
+    margin-top: 10px;
+    height: 30px;
+    width: 300px;
+}
+#box4{
+    margin-top: 5px;
+    height: 30px;
+    width: 300px;
+}
+#box5{
+    margin-top: 5px;
+    height: 30px;
+    width: 300px;
+}
+#box6{
+    margin-top: 5px;
+    height: 30px;
+    width: 300px;
+}
+
+#image1{
+    height: 80px;
+    width: 200px;
+    margin-top: 70px;
+}
+#image3{
+    height: 80px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#orr1{
+    margin-top: 20px;
+    margin-left: -180px;
+    width: 125px;
+}
+#orr2{
+    margin-top: -20px;
+}
+#orr3{
+    margin-left: 180px;
+    margin-top: -16px;
+    width: 125px;
+}
+
+#orr4{
+    margin-top: 10px;
+    margin-left: -180px;
+    width: 122px;
+}
+#orr5{
+    margin-top: -20px;
+}
+
+#orr6{
+    margin-left: 180px;
+    margin-top: -16px;
+    width: 122px;
+}
+#paragraph2{
+    font-weight: lighter;
+}
+
+#paragraph3{
+    font-weight: lighter;
+}
+
+#image2{
+    height: 15px;
+    width: 15px;
+    margin-top: -20px;
+}
+
+.BTN1{
+    margin-top: 10px;
+    height: 30px;
+    width: 310px;
+    background-color: rgb(6, 129, 195);
+    border: 1px solid gray;
+}
+#container2{
+    margin-top: 58px;
+    height: 80px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+#text1{
+    margin-top: 40px;
+    margin-left: 110px;
+}
+#container3{
+    margin-top: 25px;
+    height: 80px;
+    width: 400px;
+    border: 1px solid black;
+}
+#text2{
+    margin-top: 41px;
+    margin-left: 145px;
+    font-weight: lighter;
+}
+#text3{
+    margin-top: 0px;
+    text-align: center;
+    font-size: large;
+    color: rgb(71, 70, 70);
+}
+#text4{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 20px;
+    font-size: large;
+    color: rgb(71, 70, 70);
+}
+#text5{
+    margin-top: 0px;
+    text-align: center;
+    margin-left: 20px;
+    font-size: large;
+    color: rgb(71, 70, 70);
+}
+
+#image4{
+    height: 15px;
+    width: 15px;
+    margin-top: -25px;
+}
+.BTN3{
+    margin-top: -10px;
+    height: 30px;
+    width: 305px;
+    background-color: rgb(6, 129, 195);
+    border: 1px solid gray;
+}
+.BTN2{
+    margin-top: 0px;
+    margin-left: 42px;
+    height: 30px;
+    width: 315px;
+    background-color: rgb(6, 129, 195);
+    border: 1px solid gray;
+}
+.loginOrSignup{
+    margin-left: 700px;
+    margin-top: 45px;
+}
